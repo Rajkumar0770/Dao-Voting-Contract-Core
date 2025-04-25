@@ -1,5 +1,6 @@
 # Dao-Voting-Contract-Core
 What is DAO Voting?
+
 DAO voting is a mechanism that enables decentralized decision-making in the governance of a project. In the case of a GitHub repository, DAO voting allows contributors, stakeholders, and token holders to propose, discuss, and vote on important changes, features, or project directions. This system helps make project management more transparent, democratic, and participatory by leveraging blockchain-based governance models.
 
 How DAO Voting Works:
